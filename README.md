@@ -2,6 +2,8 @@
 
 ## Assignment 8.1 - Creating a 3D Environment  
 
+Link to the Unity Package as the file was too large to add here: https://drive.google.com/drive/folders/1x4iRyxsWuhdvzA2obwLaGrU8ql0RRj_J?usp=drive_link
+
 This project is part of Assignment 8.1, where I created an interactive 3D environment that enhances player engagement through object interaction. The centerpiece of this assignment is a dynamic feature where the player can pick up and place a wine bottle using raycasting. This interaction adds depth to the scene, making it more immersive and engaging.
 
 ## Features  
